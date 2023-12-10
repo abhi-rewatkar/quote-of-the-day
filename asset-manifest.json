@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/quote-of-the-day/static/css/main.e9b0692e.css",
-    "main.js": "/quote-of-the-day/static/js/main.33b1f3aa.js",
+    "main.js": "/quote-of-the-day/static/js/main.bcb86212.js",
     "static/media/bgg.webp": "/quote-of-the-day/static/media/bgg.29cc82c7ae6626ae302a.webp",
     "index.html": "/quote-of-the-day/index.html",
     "main.e9b0692e.css.map": "/quote-of-the-day/static/css/main.e9b0692e.css.map",
-    "main.33b1f3aa.js.map": "/quote-of-the-day/static/js/main.33b1f3aa.js.map"
+    "main.bcb86212.js.map": "/quote-of-the-day/static/js/main.bcb86212.js.map"
   },
   "entrypoints": [
     "static/css/main.e9b0692e.css",
-    "static/js/main.33b1f3aa.js"
+    "static/js/main.bcb86212.js"
   ]
 }
